@@ -1,0 +1,17 @@
+{
+  "Baseline RF": {
+    "CV AUC": 0.8688,
+    "Train Acc": 0.8507,
+    "Train F1": 0.8475
+  },
+  "+Feature Engineering": {
+    "CV AUC": 0.872,
+    "Train Acc": 0.8519,
+    "Train F1": 0.8492
+  },
+  "+Tuned Params": {
+    "CV AUC": 0.8724,
+    "Train Acc": 0.8631,
+    "Train F1": 0.8609
+  }
+}
